@@ -1,3 +1,7 @@
 # editor-for-blogging-page
-#dont use  this ,this has very less features 
-#start --> npm start
+this is my first node project.
+
+dont use  this ,this has very less features. 
+
+
+start --> npm start.
