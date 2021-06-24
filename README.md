@@ -1,7 +1,6 @@
 # editor-for-blogging-page
 this is my first node project.
-
-warning:this has very less features. 
+ 
 
 1)you can insert image,inserted image cannot be deleted.
 
